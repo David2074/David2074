@@ -51,4 +51,4 @@
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap | 🟢⚪⚪⚪⚪ |
 
 
-Diseño basado en dieño original **[3ntr0pia]**(https://github.com/3ntr0pia).
+Diseño basado en dieño original **[3ntr0pia]**(https://github.com/3ntr0pia)
