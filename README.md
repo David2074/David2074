@@ -19,7 +19,7 @@
 | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) | C# | 🟢⚪⚪⚪⚪ |
 | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | Java | 🟢⚪⚪⚪⚪ |
 
-### **Frameworks y Librerías Back-end:***
+### **Frameworks y Librerías Back-end:**
 |  |  |  |
 |--------------|--------------|--------------|
 | ![ASP.NET(C#)](https://img.icons8.com/color/48/000000/mongodb.png) | ASP.NET(C#) | 🟢⚪⚪⚪⚪ |
@@ -43,7 +43,7 @@
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript | 🟢⚪⚪⚪⚪ |
 | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | TypeScript | 🟢⚪⚪⚪⚪ |
 
-### **Frameworks y Librerías Front-end:***
+### **Frameworks y Librerías Front-end:**
 |  |  |  |
 |--------------|--------------|--------------|
 | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | Angular | 🟢⚪⚪⚪⚪ |
@@ -51,4 +51,4 @@
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap | 🟢⚪⚪⚪⚪ |
 
 
-Release del diseño original originado por 3ntr0pia(https://github.com/3ntr0pia)
+Release del diseño original originado por [#3ntr0pia](https://github.com/3ntr0pia)
