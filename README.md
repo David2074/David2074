@@ -51,4 +51,4 @@
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap | 🟢⚪⚪⚪⚪ |
 
 
-Release del diseño original originado por #[3ntr0pia](https://github.com/3ntr0pia)
+Release del diseño original originado por ###[3ntr0pia](https://github.com/3ntr0pia)
